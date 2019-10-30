@@ -1,2 +1,2 @@
 # mmall
-A magic electronic mall
+a magic electronic mall
